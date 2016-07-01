@@ -4,7 +4,7 @@ a world only without graphic.(it's a game server)
 ##What's the special under the game engine?
 With the CPU and GPU process speed grows and subtle. Server side also able to deal with Graphic matrix compute for thousand client player. This project I a attempt how much data able to hold on.
 
-##Bluemap
+##Blueprint
 * consider with tranditional compute except render image on graphic. So, it should be support transform compute, 
 collision detection.
 * It no-image world should be see as a rough debug view(good if showing better)
