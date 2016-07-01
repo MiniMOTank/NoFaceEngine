@@ -11,8 +11,8 @@ collision detection.
 
 ##What's the benefits compare with tranditional game server?
 * needn't verify data valiable because client only need push raw input data and get result from server.
-* union the world. server is a whole world(only can't see).
-* crazy!
+a lot of works for MMO game in server is verify data from client is belivable, such as position can't be too quickly, attack frequence should be reasonable, etc. It boring but important for fair. 
+* union the world. server is a whole world(only can't see).We could ignore what should do at client side and what should do at server side.
 
 ##What's the difficulty to completed?
 * integrated with GPU compute for excellent process speed.
