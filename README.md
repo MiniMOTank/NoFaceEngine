@@ -1,6 +1,10 @@
 # NoFaceEngine
 a world only without graphic.(it's a game server)
 
+##Dependencies
+1. Scala programming language
+2. ReactiveX library
+
 ##What's the special under the game engine?
 With the CPU and GPU process speed grows and subtle. Server side also able to deal with Graphic matrix compute for thousand client player. This project I a attempt how much data able to hold on.
 
